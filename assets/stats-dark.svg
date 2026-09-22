@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="495" height="212" viewBox="0 0 495 212" role="img" aria-labelledby="card-title">
-  <title id="card-title">GitHub at a glance: 183 stars, 25 public repos, 1,047 contributions in the last 12 months, 1,536 all-time, 72 followers. Top languages: Go 59.5%, TypeScript 16.3%, JavaScript 10.4%, Python 5.0%, Rust 5.0%, HTML 3.9%.</title>
+  <title id="card-title">GitHub at a glance: 183 stars, 25 public repos, 1,047 contributions in the last 12 months, 1,536 all-time, 72 followers. Top languages: Go 59.4%, TypeScript 16.3%, JavaScript 10.4%, Python 5.0%, Rust 5.0%, HTML 4.0%.</title>
   <style>
     .card { fill: #1a1b26; stroke: #2f3549; stroke-width: 1; }
     text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #c0caf5; }
@@ -57,16 +57,16 @@
   </g>
   <rect class="track" x="264" y="88" width="211" height="8" rx="4"/>
   <g clip-path="url(#bar-clip)">
-    <rect class="seg" x="264.00" y="88" width="126.04" height="8" fill="#00ADD8" style="animation-delay:0.35s"/>
-    <rect class="seg" x="389.54" y="88" width="34.83" height="8" fill="#3178c6" style="animation-delay:0.41s"/>
-    <rect class="seg" x="423.86" y="88" width="22.44" height="8" fill="#f1e05a" style="animation-delay:0.47s"/>
-    <rect class="seg" x="445.80" y="88" width="11.04" height="8" fill="#3572A5" style="animation-delay:0.53s"/>
-    <rect class="seg" x="456.34" y="88" width="11.00" height="8" fill="#dea584" style="animation-delay:0.59s"/>
-    <rect class="seg" x="466.84" y="88" width="8.16" height="8" fill="#e34c26" style="animation-delay:0.65s"/>
+    <rect class="seg" x="264.00" y="88" width="125.92" height="8" fill="#00ADD8" style="animation-delay:0.35s"/>
+    <rect class="seg" x="389.42" y="88" width="34.79" height="8" fill="#3178c6" style="animation-delay:0.41s"/>
+    <rect class="seg" x="423.72" y="88" width="22.42" height="8" fill="#f1e05a" style="animation-delay:0.47s"/>
+    <rect class="seg" x="445.63" y="88" width="11.03" height="8" fill="#3572A5" style="animation-delay:0.53s"/>
+    <rect class="seg" x="456.16" y="88" width="10.99" height="8" fill="#dea584" style="animation-delay:0.59s"/>
+    <rect class="seg" x="466.65" y="88" width="8.35" height="8" fill="#e34c26" style="animation-delay:0.65s"/>
   </g>
   <g class="row" style="animation-delay:0.55s">
     <circle cx="267.5" cy="122.5" r="3.5" fill="#00ADD8"/>
-    <text class="legend" x="275" y="126">Go<tspan class="pct" dx="4">59.5%</tspan></text>
+    <text class="legend" x="275" y="126">Go<tspan class="pct" dx="4">59.4%</tspan></text>
   </g>
   <g class="row" style="animation-delay:0.55s">
     <circle cx="377" cy="122.5" r="3.5" fill="#3178c6"/>
@@ -86,6 +86,6 @@
   </g>
   <g class="row" style="animation-delay:0.95s">
     <circle cx="377" cy="178.5" r="3.5" fill="#e34c26"/>
-    <text class="legend" x="384.5" y="182">HTML<tspan class="pct" dx="4">3.9%</tspan></text>
+    <text class="legend" x="384.5" y="182">HTML<tspan class="pct" dx="4">4.0%</tspan></text>
   </g>
 </svg>
