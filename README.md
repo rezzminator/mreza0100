@@ -1,5 +1,5 @@
 <!--
-  mreza0100 — profile README.
+  rezzminator — profile README.
   The four big visuals are generated inside this repo by GitHub Actions with the default
   GITHUB_TOKEN and served as static SVGs, so no rented widget instance can 503 them.
   (The small badges are external: shields.io, skillicons.dev, komarev.)
@@ -70,14 +70,14 @@ agent tooling, and the distributed services underneath them.
 <tr>
 <td width="50%" valign="top">
 
-#### 🎓 [professor](https://github.com/mreza0100/professor) · Go
+#### 🎓 [professor](https://github.com/rezzminator/professor) · Go
 A discipline layer for AI coding agents — multi-agent pipelines with schedulers, QA gates, and a `pfm` CLI that treats every running chat as infrastructure.
 <br/><sub>`Go` · `Multi-agent` · `Pipelines`</sub>
 
 </td>
 <td width="50%" valign="top">
 
-#### 🧩 [gemini-coax](https://github.com/mreza0100/gemini-coax) · Python
+#### 🧩 [gemini-coax](https://github.com/rezzminator/gemini-coax) · Python
 Makes Gemini structured output actually validate against your Pydantic models — repairs the `anyOf`/enum drop and ignored bounds that break LangChain chains.
 <br/><sub>`LangChain` · `Pydantic` · `Vertex AI`</sub>
 
@@ -86,14 +86,14 @@ Makes Gemini structured output actually validate against your Pydantic models �
 <tr>
 <td width="50%" valign="top">
 
-#### 📊 [limit-dashboard](https://github.com/mreza0100/limit-dashboard) · Swift
+#### 📊 [limit-dashboard](https://github.com/rezzminator/limit-dashboard) · Swift
 Native macOS dashboard for AI subscription limits — Claude, Codex and Vertex usage in one live, local-only view.
 <br/><sub>`Swift` · `SwiftUI` · `macOS`</sub>
 
 </td>
 <td width="50%" valign="top">
 
-#### 🌾 [harvester-web-mcp](https://github.com/mreza0100/harvester-web-mcp) · Python
+#### 🌾 [harvester-web-mcp](https://github.com/rezzminator/harvester-web-mcp) · Python
 Retrieval front-end for LLM pipelines: web pages, PDFs, Office docs and archives to clean Markdown, with a wall-bypass ladder for walled academic sources.
 <br/><sub>`Python` · `MCP` · `Ingestion`</sub>
 
@@ -102,15 +102,15 @@ Retrieval front-end for LLM pipelines: web pages, PDFs, Office docs and archives
 <tr>
 <td width="50%" valign="top">
 
-#### 📄 [resume101](https://github.com/mreza0100/resume101) · ⭐ 135
+#### 📄 [resume101](https://github.com/rezzminator/resume101) · ⭐ 135
 An opinionated resume guide for experienced software engineers. My most-starred project by a wide margin.
 <br/><sub>`Guide` · `Career`</sub>
 
 </td>
 <td width="50%" valign="top">
 
-#### 🌫 [liquid-glass](https://github.com/mreza0100/liquid-glass) · WebGL
-Zero-dependency liquid-glass effect — smoke refracted through a bevelled glass slab, every parameter a live knob. [Live demo »](https://mreza0100.github.io/liquid-glass/)
+#### 🌫 [liquid-glass](https://github.com/rezzminator/liquid-glass) · WebGL
+Zero-dependency liquid-glass effect — smoke refracted through a bevelled glass slab, every parameter a live knob. [Live demo »](https://rezzminator.github.io/liquid-glass/)
 <br/><sub>`WebGL` · `GLSL` · `Zero-deps`</sub>
 
 </td>
@@ -121,7 +121,7 @@ Zero-dependency liquid-glass effect — smoke refracted through a bevelled glass
 
 <br/>
 
-### 🛰 Right now: [professor](https://github.com/mreza0100/professor)
+### 🛰 Right now: [professor](https://github.com/rezzminator/professor)
 
 Most AI coding setups treat chats as scrollback. Professor treats them as **infrastructure** —
 a discipline layer of agent pipelines and QA gates, plus `pfm`, a Go CLI that manages every AI

@@ -7,7 +7,7 @@
  * Zero dependencies, Node >= 20 (global fetch).
  *
  *   GH_TOKEN  auth token (fallback: GITHUB_TOKEN) — the default Actions token is enough
- *   GH_USER   login to render (default: mreza0100)
+ *   GH_USER   login to render (default: rezzminator)
  *
  * Output is deterministic — no timestamps, stable sort order, fixed number formatting —
  * so a rerun with unchanged data yields byte-identical files and the workflow only
@@ -381,7 +381,7 @@ async function main() {
 
   const token = process.env.GH_TOKEN || process.env.GITHUB_TOKEN;
   if (!token) throw new Error('set GH_TOKEN (or GITHUB_TOKEN)');
-  const login = process.env.GH_USER || 'mreza0100';
+  const login = process.env.GH_USER || 'rezzminator';
 
   const { user, repos } = await fetchProfile(token, login);
   const allTime = await fetchAllTimeContributions(token, login, user.createdAt);

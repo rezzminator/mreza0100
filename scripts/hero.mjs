@@ -12,7 +12,7 @@
  * a renderer with no SMIL and no CSS animation still shows the finished banner rather than a blank
  * or half-drawn one.
  *
- * Env:  GH_TOKEN | GITHUB_TOKEN  (required)   GH_USER (default: mreza0100)
+ * Env:  GH_TOKEN | GITHUB_TOKEN  (required)   GH_USER (default: rezzminator)
  * Out:  assets/hero-dark.svg, assets/hero-light.svg
  */
 
@@ -323,7 +323,7 @@ function render(login, data, themeName) {
 async function main() {
   const token = process.env.GH_TOKEN || process.env.GITHUB_TOKEN;
   if (!token) throw new Error('set GH_TOKEN or GITHUB_TOKEN');
-  const login = process.env.GH_USER || 'mreza0100';
+  const login = process.env.GH_USER || 'rezzminator';
 
   const data = await fetchCalendar(token, login);
   const outDir = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..', 'assets');
