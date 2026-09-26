@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="495" height="212" viewBox="0 0 495 212" role="img" aria-labelledby="card-title">
-  <title id="card-title">GitHub at a glance: 184 stars, 26 public repos, 1,052 contributions in the last 12 months, 1,541 all-time, 72 followers. Top languages: Go 59.3%, TypeScript 16.5%, JavaScript 10.4%, Python 5.0%, Rust 5.0%, HTML 3.9%.</title>
+  <title id="card-title">GitHub at a glance: 185 stars, 26 public repos, 1,253 contributions in the last 12 months, 1,742 all-time, 72 followers. Top languages: Go 67.5%, TypeScript 9.1%, JavaScript 7.7%, Shell 6.2%, Python 5.3%, HTML 4.1%.</title>
   <style>
     .card { fill: #ffffff; stroke: #d0d7de; stroke-width: 1; }
     text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #1f2328; }
@@ -29,7 +29,7 @@
   <g class="row" style="animation-delay:0.15s">
     <g class="icon" transform="translate(20 58)"><path d="M8 1.8L9.7 6.05 14.28 6.36 10.76 9.3 11.88 13.74 8 11.3 4.12 13.74 5.24 9.3 1.72 6.36 6.3 6.05z"/></g>
     <text class="label" x="44" y="70">Total stars</text>
-    <text class="num" x="246" y="70" text-anchor="end">184</text>
+    <text class="num" x="246" y="70" text-anchor="end">185</text>
   </g>
   <g class="row" style="animation-delay:0.35s">
     <g class="icon" transform="translate(20 86)"><path d="M4.5 1.5h8v10.2H5a1.5 1.5 0 0 0 0 3h7.5M4.5 1.5a1 1 0 0 0-1 1V13M6.5 4.5h4"/></g>
@@ -39,12 +39,12 @@
   <g class="row" style="animation-delay:0.55s">
     <g class="icon" transform="translate(20 114)"><path d="M1.5 8h3.7M10.8 8h3.7M8 5.2a2.8 2.8 0 1 0 0 5.6 2.8 2.8 0 0 0 0-5.6z"/></g>
     <text class="label" x="44" y="126">Contributions, last 12 months</text>
-    <text class="num" x="246" y="126" text-anchor="end">1,052</text>
+    <text class="num" x="246" y="126" text-anchor="end">1,253</text>
   </g>
   <g class="row" style="animation-delay:0.75s">
     <g class="icon" transform="translate(20 142)"><path d="M1.5 14.5h13M4.5 12V8M8 12V3.5M11.5 12V6"/></g>
     <text class="label" x="44" y="154">Contributions, all-time</text>
-    <text class="num" x="246" y="154" text-anchor="end">1,541</text>
+    <text class="num" x="246" y="154" text-anchor="end">1,742</text>
   </g>
   <g class="row" style="animation-delay:0.95s">
     <g class="icon" transform="translate(20 170)"><path d="M5.5 2.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM1.5 13.5a4 4 0 0 1 8 0M10.5 3a2.2 2.2 0 0 1 0 4.2M12.2 9.6a3.6 3.6 0 0 1 2.3 3.9"/></g>
@@ -57,35 +57,35 @@
   </g>
   <rect class="track" x="264" y="88" width="211" height="8" rx="4"/>
   <g clip-path="url(#bar-clip)">
-    <rect class="seg" x="264.00" y="88" width="125.61" height="8" fill="#00ADD8" style="animation-delay:0.35s"/>
-    <rect class="seg" x="389.11" y="88" width="35.23" height="8" fill="#3178c6" style="animation-delay:0.41s"/>
-    <rect class="seg" x="423.84" y="88" width="22.36" height="8" fill="#f1e05a" style="animation-delay:0.47s"/>
-    <rect class="seg" x="445.71" y="88" width="11.00" height="8" fill="#3572A5" style="animation-delay:0.53s"/>
-    <rect class="seg" x="456.21" y="88" width="10.96" height="8" fill="#dea584" style="animation-delay:0.59s"/>
-    <rect class="seg" x="466.67" y="88" width="8.33" height="8" fill="#e34c26" style="animation-delay:0.65s"/>
+    <rect class="seg" x="264.00" y="88" width="143.01" height="8" fill="#00ADD8" style="animation-delay:0.35s"/>
+    <rect class="seg" x="406.51" y="88" width="19.79" height="8" fill="#3178c6" style="animation-delay:0.41s"/>
+    <rect class="seg" x="425.80" y="88" width="16.84" height="8" fill="#f1e05a" style="animation-delay:0.47s"/>
+    <rect class="seg" x="442.15" y="88" width="13.56" height="8" fill="#89e051" style="animation-delay:0.53s"/>
+    <rect class="seg" x="455.20" y="88" width="11.75" height="8" fill="#3572A5" style="animation-delay:0.59s"/>
+    <rect class="seg" x="466.45" y="88" width="8.55" height="8" fill="#e34c26" style="animation-delay:0.65s"/>
   </g>
   <g class="row" style="animation-delay:0.55s">
     <circle cx="267.5" cy="122.5" r="3.5" fill="#00ADD8"/>
-    <text class="legend" x="275" y="126">Go<tspan class="pct" dx="4">59.3%</tspan></text>
+    <text class="legend" x="275" y="126">Go<tspan class="pct" dx="4">67.5%</tspan></text>
   </g>
   <g class="row" style="animation-delay:0.55s">
     <circle cx="377" cy="122.5" r="3.5" fill="#3178c6"/>
-    <text class="legend" x="384.5" y="126">TypeScript<tspan class="pct" dx="4">16.5%</tspan></text>
+    <text class="legend" x="384.5" y="126">TypeScript<tspan class="pct" dx="4">9.1%</tspan></text>
   </g>
   <g class="row" style="animation-delay:0.75s">
     <circle cx="267.5" cy="150.5" r="3.5" fill="#f1e05a"/>
-    <text class="legend" x="275" y="154">JavaScript<tspan class="pct" dx="4">10.4%</tspan></text>
+    <text class="legend" x="275" y="154">JavaScript<tspan class="pct" dx="4">7.7%</tspan></text>
   </g>
   <g class="row" style="animation-delay:0.75s">
-    <circle cx="377" cy="150.5" r="3.5" fill="#3572A5"/>
-    <text class="legend" x="384.5" y="154">Python<tspan class="pct" dx="4">5.0%</tspan></text>
+    <circle cx="377" cy="150.5" r="3.5" fill="#89e051"/>
+    <text class="legend" x="384.5" y="154">Shell<tspan class="pct" dx="4">6.2%</tspan></text>
   </g>
   <g class="row" style="animation-delay:0.95s">
-    <circle cx="267.5" cy="178.5" r="3.5" fill="#dea584"/>
-    <text class="legend" x="275" y="182">Rust<tspan class="pct" dx="4">5.0%</tspan></text>
+    <circle cx="267.5" cy="178.5" r="3.5" fill="#3572A5"/>
+    <text class="legend" x="275" y="182">Python<tspan class="pct" dx="4">5.3%</tspan></text>
   </g>
   <g class="row" style="animation-delay:0.95s">
     <circle cx="377" cy="178.5" r="3.5" fill="#e34c26"/>
-    <text class="legend" x="384.5" y="182">HTML<tspan class="pct" dx="4">3.9%</tspan></text>
+    <text class="legend" x="384.5" y="182">HTML<tspan class="pct" dx="4">4.1%</tspan></text>
   </g>
 </svg>
